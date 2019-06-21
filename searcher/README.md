@@ -6,6 +6,7 @@ sample code ： https://github.com/goinaction/code/tree/master/chapter2/sample
 结构说明：
     
     data        -- json文档， 数据源
-    matchers    -- 支持搜索不同数据源
+    matchers    -- 匹配器，支持搜索不同数据源 
     search      -- 使用不同匹配器进行搜索的业务逻辑
+    
     
